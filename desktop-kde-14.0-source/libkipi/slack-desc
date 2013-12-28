@@ -1,0 +1,12 @@
+       |-----handy-ruler------------------------------------------------------|
+libkipi: libKipi (KDE Image Plugin Interface)
+libkipi:
+libkipi: This package provides a generic KDE Image Plug-in Interface used by
+libkipi: some KDE image applications.
+libkipi: Plug-ins for this interface are in the kipi-plugins package.
+libkipi:
+libkipi: 
+libkipi:
+libkipi:
+libkipi:
+libkipi: Package created by Niki Kovacs <info@microlinux.fr>

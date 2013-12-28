@@ -1,0 +1,12 @@
+                  |-----handy-ruler------------------------------------------------------|
+cairo-dock-plugins: cairo-dock-plugins (plugins for cairo-dock)
+cairo-dock-plugins:
+cairo-dock-plugins: This package contains a set of official plug-ins for cairo-dock.
+cairo-dock-plugins: It provides some new functionality such as controling music players,
+cairo-dock-plugins: note-taking, a clock and a desktop switcher, but also some views,
+cairo-dock-plugins: dialogs and desklets skins, etcetera.
+cairo-dock-plugins:
+cairo-dock-plugins: 
+cairo-dock-plugins:
+cairo-dock-plugins:
+cairo-dock-plugins: Package created by Niki Kovacs <info@microlinux.fr>

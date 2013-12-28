@@ -1,0 +1,23 @@
+Thu Nov 28 14:14:19 CET 2013
+user-settings-mate-1.0-noarch-1_microlinux.txz: Added.
++---------------------------+
+Thu Nov 28 06:25:52 CET 2013
+totem-pl-parser-2.32.5-i486-2_microlinux.txz: Added.
+brasero-3.4.1-i486-2_microlinux.txz: Added.
+gthumb-3.0.1-i486-1_microlinux.txz: Added.
+simple-scan-2.32.0.2-i486-2_microlinux.txz: Added.
+asunder-2.2-i486-2_microlinux.txz: Added.
+gcolor2-0.4-i486-4_microlinux.txz: Added.
+gtk-engines-2.20.2-i486-3_microlinux.txz: Removed.
+  Already featured in MSB.
++---------------------------+
+Thu Nov 21 07:36:08 CET 2013
+gtk-engines-2.20.2-i486-3_microlinux.txz: Added.
+clearlooks-phenix-theme-2.0.10-noarch-2_microlinux.txz: Added.
++---------------------------+
+Wed Nov 20 11:30:40 CET 2013
+libgnomecanvas-2.30.3-i486-2_microlinux.txz: Added.
+gdm-2.20.11-i486-2_microlinux.txz: Added.
+aero-1.0-noarch-1_microlinux.txz: Added.
+faenza-icon-theme-1.3-noarch-3_microlinux.txz: Added.
++---------------------------+

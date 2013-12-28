@@ -1,0 +1,12 @@
+            |-----handy-ruler------------------------------------------------------|
+ffmpegthumbs: ffmpegthumbs (video thumbnail generator using ffmpeg)
+ffmpegthumbs:
+ffmpegthumbs: FFMpegThumbs is a video thumbnail generator for KDE file managers
+ffmpegthumbs: like Dolphin and Konqueror.  It enables them to show preview
+ffmpegthumbs: images of video files using FFMpeg. 
+ffmpegthumbs:
+ffmpegthumbs:
+ffmpegthumbs:
+ffmpegthumbs:
+ffmpegthumbs:
+ffmpegthumbs: Package created by Niki Kovacs <info@microlinux.fr>

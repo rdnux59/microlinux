@@ -1,0 +1,12 @@
+                |-----handy-ruler------------------------------------------------------|
+phonon-gstreamer: phonon-gstreamer (gstreamer backend for phonon)
+phonon-gstreamer:
+phonon-gstreamer: This package provides an additional gstreamer backend for the phonon
+phonon-gstreamer: multimedia framework used in KDE.
+phonon-gstreamer:
+phonon-gstreamer: 
+phonon-gstreamer: 
+phonon-gstreamer:
+phonon-gstreamer:
+phonon-gstreamer:
+phonon-gstreamer: Package created by Niki Kovacs <info@microlinux.fr>

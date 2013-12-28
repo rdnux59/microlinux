@@ -1,0 +1,13 @@
+Mon Dec  2 19:17:36 CET 2013
+k3b-2.0.2-i486-1_microlinux.txz: Rebuilt.
+kscd-4.10.5-i486-1_microlinux.txz: Added.
++---------------------------+
+Sun Dec  1 15:54:23 CET 2013
+kde-baseapps-4.10.5-i486-2_microlinux.txz: Rebuilt.
+  Rebuilt without Konqueror, since we're using Firefox.
+kde-base-artwork-4.10.5-i486-2_microlinux.txz: Rebuilt.
+kde-workspace-4.10.5-i486-3_microlinux.txz: Rebuilt.
+kde-wallpapers-4.10.5-i486-2_microlinux.txz: Rebuilt.
+  Rebuilt for a more sober and "corporate" default configuration.
+user-settings-kde-4.10.5-noarch-1_microlinux.txz: Added.
++---------------------------+

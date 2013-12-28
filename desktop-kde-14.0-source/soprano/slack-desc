@@ -1,0 +1,12 @@
+       |-----handy-ruler-----------------------------------------------------|
+soprano: soprano (C++/Qt4 framework for RDF data)
+soprano:
+soprano: Soprano (formally known as QRDF) is a library which provides 
+soprano: a nice Qt interface to RDF storage solutions.  It has a modular
+soprano: structure which allows to replace the actual RDF storage 
+soprano: implementation used. 
+soprano:
+soprano: 
+soprano:
+soprano:
+soprano: Package created by Niki Kovacs <info@microlinux.fr>

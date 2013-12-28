@@ -1,0 +1,12 @@
+           |-----handy-ruler------------------------------------------------------|
+oxygen-gtk2: oxygen-gtk2 (Oxygen GTK+ engine)
+oxygen-gtk2:
+oxygen-gtk2: Oxygen-Gtk2 is a port of the KDE widget theme Oxygen, to GTK+.
+oxygen-gtk2: It's primary goal is to ensure visual consistency between GTK+ and
+oxygen-gtk2: qt-based applications running under kde. A secondary objective is
+oxygen-gtk2: to also have a stand-alone nice looking GTK+ theme that would behave
+oxygen-gtk2: well on other Desktop Environments.
+oxygen-gtk2: Unlike other attempts made to port the kde oxygen theme to GTK+, this
+oxygen-gtk2: attempt does not depend on Qt.
+oxygen-gtk2:
+oxygen-gtk2: Package created by Niki Kovacs <info@microlinux.fr>

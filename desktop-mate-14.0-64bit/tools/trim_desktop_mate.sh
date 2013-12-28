@@ -1,0 +1,1 @@
+../../desktop-mate-14.0-32bit/tools/trim_desktop_mate.sh

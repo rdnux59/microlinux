@@ -1,0 +1,12 @@
+           |-----handy-ruler------------------------------------------------------|
+oxygen-gtk3: oxygen-gtk3 (Oxygen GTK+3 engine)
+oxygen-gtk3:
+oxygen-gtk3: Oxygen-Gtk3 is a port of the KDE widget theme Oxygen, to GTK+3.
+oxygen-gtk3: It's primary goal is to ensure visual consistency between GTK+ and
+oxygen-gtk3: qt-based applications running under kde. A secondary objective is
+oxygen-gtk3: to also have a stand-alone nice looking GTK+ theme that would behave
+oxygen-gtk3: well on other Desktop Environments.
+oxygen-gtk3: Unlike other attempts made to port the kde oxygen theme to GTK+, this
+oxygen-gtk3: attempt does not depend on Qt.
+oxygen-gtk3:
+oxygen-gtk3: Package created by Niki Kovacs <info@microlinux.fr>

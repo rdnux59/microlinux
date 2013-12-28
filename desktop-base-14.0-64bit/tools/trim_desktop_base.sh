@@ -1,0 +1,1 @@
+../../desktop-base-14.0-32bit/tools/trim_desktop_base.sh

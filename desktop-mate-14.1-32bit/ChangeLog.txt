@@ -1,0 +1,43 @@
+Fri Dec 20 17:09:25 CET 2013
+gthumb-3.2.4-i486-1_microlinux.txz: Added.
+simple-scan-2.32.0.2-i486-1_microlinux.txz: Added.
+asunder-2.3-i486-1_microlinux.txz: Added.
+gcolor2-0.4-i486-1_microlinux.txz: Added.
++---------------------------+
+Wed Dec 18 16:42:43 CET 2013
+gst-ffmpeg-0.10.13-i486-1_microlinux.txz: Added.
+gst-plugins-bad-0.10.23-i486-1_microlinux.txz: Added.
+gst-plugins-ugly-0.10.19-i486-1_microlinux.txz: Added.
+totem-pl-parser-3.4.5-i486-1_microlinux.txz: Added.
+libburn-1.3.4-i486-1_microlinux.txz: Added.
+libisofs-1.3.4-i486-1_microlinux.txz: Added.
+libisoburn-1.3.4-i486-1_microlinux.txz: Added.
+brasero-2.32.1-i486-1_microlinux.txz: Added.
++---------------------------+
+Wed Dec 18 13:14:11 CET 2013
+compiz-bcop-0.8.8-i486-1_microlinux.txz: Added.
+pysetuptools-0.9.8-i486-1_microlinux.txz: Added.
+protobuf-2.5.0-i486-1_microlinux.txz: Added.
+libcompizconfig-0.8.8-i486-1_microlinux.txz: Added.
+compizconfig-python-0.8.4-i486-1_microlinux.txz: Added.
+ccsm-0.8.4-i486-1_microlinux.txz: Added.
+compiz-plugins-main-0.8.8-i486-1_microlinux.txz: Added.
+compiz-plugins-extra-0.8.8-i486-1_microlinux.txz: Added.
+emerald-0.8.8-i486-1_microlinux.txz: Added.
+emerald-themes-0.6.0-i486-1_microlinux.txz: Added.
+fusion-icon-20080213-i486-1_microlinux.txz: Added.
++---------------------------+
+Tue Dec 17 11:34:34 CET 2013
+pangox-compat-0.0.2-i486-1_microlinux.txz: Added.
+gtkglext-1.2.0-i486-1_microlinux.txz: Added.
+cairo-dock-3.3.2-i486-1_microlinux.txz: Added.
+cairo-dock-plugins-3.3.2-i486-1_microlinux.txz: Added.
++---------------------------+
+Sun Dec  8 10:59:28 CET 2013
+aero-1.0-noarch-1_microlinux.txz: Added.
+libgnomecanvas-2.30.3-i486-1_microlinux.txz: Added.
+gdm-2.20.11-i486-1_microlinux.txz: Added.
+faenza-icon-theme-1.3-noarch-1_microlinux.txz: Added.
+clearlooks-phenix-theme-20131129-noarch-1_microlinux.txz: Added.
+user-settings-mate-1.0-noarch-1_microlinux.txz: Added.
++---------------------------+

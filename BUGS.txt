@@ -1,0 +1,13 @@
+====
+BUGS 
+====
+
+Here's a list of known problems and bugs in MLED and MLES.
+
+14.1
+----
+
+[ ] New Gnote refuses to stay in system tray.
+[ ] Wrong checksum for sbopkg.
+[ ] Missing server icons in Thunar for Samba shares.
+[ ] MATE wants to open the home directory with Audacious instead of Caja.

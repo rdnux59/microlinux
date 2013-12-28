@@ -1,0 +1,141 @@
+Sat Dec 21 08:16:58 CET 2013
+gnote-0.7.6-i486-1_microlinux.txz: Downgraded.
+  The new version of Gnote is affected by a bug which makes it disappear from
+	the system tray when closing a note. Until we can sort this out, we'll revert
+	to this very old version, which works perfectly. 
++---------------------------+
+Wed Dec 18 10:02:14 CET 2013
+mozilla-firefox-l10n-24.2.0-i486-1_microlinux.txz: Upgraded.
+mozilla-thunderbird-l10n-24.2.0-i486-1_microlinux.txz: Upgraded.
++---------------------------+
+Tue Dec 17 08:18:15 CET 2013
+sbopkg-0.37.0-noarch-1_microlinux.txz: Upgraded.
++---------------------------+
+Thu Dec  5 16:41:34 CET 2013
+jbig2dec-0.11-i486-1_microlinux.txz: Added.
+mupdf-1.2-i486-1_microlinux.txz: Added.
++---------------------------+
+Thu Dec  5 09:01:23 CET 2013
+acpica-20130725-i486-1_microlinux.txz: Added.
+virtualbox-4.2.18-i486-1_microlinux.txz: Added.
+virtualbox-kernel-4.2.18_3.10.17_smp-i486-1_microlinux.txz: Added.
+virtualbox-extension-pack-4.2.18-i486-1_microlinux.txz: Added.
++---------------------------+
+Wed Dec  4 07:53:45 CET 2013
+transmission-2.77-i486-2_microlinux.txz: Added.
++---------------------------+
+Tue Dec  3 15:35:41 CET 2013
+gtkmm3-3.8.1-i486-1_microlinux.txz: Added.
+gnote-3.10.1-i486-1_microlinux.txz: Added.
+gtkcdlabel-1.15-noarch-1_microlinux.txz: Added.
++---------------------------+
+Tue Dec  3 10:13:19 CET 2013
+scons-2.3.0-i486-1_microlinux.txz: Added.
+imlib2-1.4.5-i486-1_microlinux.txz: Added.
+lua-5.1.5-i486-1_microlinux.txz: Added.
+tolua++-1.0.93-i486-1_microlinux.txz: Added.
+conky-1.9.0-i486-1_microlinux.txz: Added.
+smplayer-0.8.6-i486-1_microlinux.txz: Added.
+libsigc++-2.2.11-i486-1_microlinux.txz: Added.
+glibmm-2.36.2-i486-1_microlinux.txz: Added.
+cairomm-1.10.0-i486-1_microlinux.txz: Added.
+pangomm-2.34.0-i486-1_microlinux.txz: Added.
+atkmm-2.22.7-i486-1_microlinux.txz: Added.
+mm-common-0.9.6-noarch-1_microlinux.txz: Added.
+gtkmm-2.24.4-i486-1_microlinux.txz: Added.
+BeautifulSoup-3.2.1-i486-1_microlinux.txz: Added.
+lxml-3.2.4-i486-1_microlinux.txz: Added.
+gsl-1.16-i486-1_microlinux.txz: Added.
+numpy-1.8.0-i486-1_microlinux.txz: Added.
+inkscape-0.48.4-i486-1_microlinux.txz: Added.
+mlt-0.9.0-i486-1_microlinux.txz: Added.
+pyxdg-0.25-i486-1_microlinux.txz: Added.
+goocanvas-0.15-i486-1_microlinux.txz: Added.
+pygoocanvas-0.14.1-i486-1_microlinux.txz: Added.
+openshot-1.4.3-i486-1_microlinux.txz: Added.
++---------------------------+
+Mon Dec  2 18:52:44 CET 2013
+libmusicbrainz3-3.0.3-i486-1_microlinux.txz: Added.
++---------------------------+
+Mon Dec  2 17:29:46 CET 2013
+libmusicbrainz-2.1.5-i486-1_microlinux.txz: Added.
+vcdimager-0.7.24-i486-1_microlinux.txz: Added.
+wxGTK-2.8.12-i486-1_microlinux.txz: Added.
+soundtouch-1.7.1-i486-1_microlinux.txz: Added.
+audacity-2.0.5-i486-1_microlinux.txz: Added.
++---------------------------+
+Mon Dec  2 07:44:03 CET 2013
+audacious-3.4.2-i486-1_microlinux.txz: Rebuilt.
+libcue-1.3.0-i486-1_microlinux.txz: Added.
+libmms-0.6.2-i486-1_microlinux.txz: Added.
+audacious-plugins-3.4.2-i486-1_microlinux.txz: Rebuilt.
++---------------------------+
+Sun Dec  1 07:07:32 CET 2013
+a52dec-0.7.4-i486-1_microlinux.txz: Added.
+libdv-1.0.0-i486-1_microlinux.txz: Added.
+libmpeg2-0.5.1-i486-1_microlinux.txz: Added.
+faad2-2.7-i486-1_microlinux.txz: Added.
+libquicktime-1.2.4-i486-1_microlinux.txz: Added.
+mjpegtools-2.1.0-i486-1_microlinux.txz: Added.
+transcode-1.1.7-i486-1_microlinux.txz: Added.
+dirac-1.0.2-i486-1_microlinux.txz: Added.
+libcuefile-r475-i486-1_microlinux.txz: Added.
+libreplaygain-r475-i486-1_microlinux.txz: Added.
+musepack-tools-r475-i486-1_microlinux.txz: Added.
+libdca-0.0.5-i486-1_microlinux.txz: Added.
+MPlayer-1.1.1-i486-1_microlinux.txz: Rebuilt.
+mplayer-codecs-20110131-i486-1_microlinux.txz: Added.
+jdk-7u45-i586-1_microlinux.txz: Added.
+flashplayer-plugin-11.2.202.327-i386-1_microlinux.txz: Added.
+eurostile-fonts-1.0-noarch-1_microlinux.txz: Added.
+google-droid-fonts-20100409-noarch-1_microlinux.txz: Added.
+webcore-fonts-3.0-noarch-1_microlinux.txz: Added.
+microlinux-wallpapers-1.0-noarch-1_microlinux.txz: Added.
+slack-wallpapers-0.212-noarch-1_microlinux.txz: Added.
+openoffice-4.0.1_en_US-i586-1_microlinux.txz: Added.
+openoffice-langpack-de-4.0.1-i486-1_microlinux.txz: Added.
+openoffice-langpack-fr-4.0.1-i486-1_microlinux.txz: Added.
+mozilla-firefox-l10n-24.1.1-i486-1_microlinux.txz: Added.
+mozilla-thunderbird-l10n-24.1.0-i486-1_microlinux.txz: Added.
++---------------------------+
+Sat Nov 30 19:56:17 CET 2013
+libilbc-20131002-i486-1_microlinux.txz: Added.
+openjpeg-1.5.1-i486-1_microlinux.txz: Added.
+ladspa_sdk-1.13-i486-4_microlinux.txz: Added.
+libmodplug-0.8.8.4-i486-1_microlinux.txz: Added.
+OpenAL-1.15.1-i486-1_microlinux.txz: Added.
+opencore-amr-0.1.3-i486-1_microlinux.txz: Added.
+opus-1.0.3-i486-1_microlinux.txz: Added.
+rtmpdump-20131007_a9f353c-i486-1_microlinux.txz: Added.
+orc-0.4.18-i486-1_microlinux.txz: Added.
+schroedinger-1.0.11-i486-1_microlinux.txz: Added.
+speex-1.2rc1-i486-1_microlinux.txz: Added.
+twolame-0.3.13-i486-1_microlinux.txz: Added.
+libvpx-1.2.0-i486-1_microlinux.txz: Added.
+xvidcore-1.3.2-i486-1_microlinux.txz: Added.
+ffmpeg-2.1-i686_custom-1_microlinux.txz: Added.
++---------------------------+
+Sat Nov 30 12:20:58 CET 2013
+sbopkg-0.36.0-noarch-1_microlinux.txz: Added.
+recode-3.6-i486-1_microlinux.txz: Added.
+cdlabelgen-4.3.0-noarch-1_microlinux.txz: Added.
+p7zip-9.20.1-i486-1_microlinux.txz: Added.
+unrar-5.0.13-i486-1_microlinux.txz: Added.
+lame-3.99.5-i486-1_microlinux.txz: Added.
+x264-20131101-i486-1_microlinux.txz: Added.
+enca-1.15-i486-1_microlinux.txz: Added.
+libass-0.10.2-i486-1_microlinux.txz: Added.
+libaacs-0.6.0-i486-1_microlinux.txz: Added.
+libbluray-0.4.0-i486-1_microlinux.txz: Added.
+celt-0.11.3-i486-1_microlinux.txz: Added.
+libdc1394-2.2.1-i486-1_microlinux.txz: Added.
+libmp4v2-2.0.0-i486-1_microlinux.txz: Added.
+faac-1.28-i486-2_microlinux.txz: Added.
+frei0r-1.4-i486-1_microlinux.txz: Added.
+gsm-1.0.13-i486-1_microlinux.txz: Added.
+libiec61883-1.2.0-i486-1_microlinux.txz: Added.
+libavc1394-0.5.4-i486-1_microlinux.txz: Added.
++---------------------------+
+Tue Nov 12 22:51:10 CET 2013
+user-settings-console-1.0-noarch-1_microlinux.txz: Added.
++---------------------------+

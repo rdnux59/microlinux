@@ -1,0 +1,12 @@
+                           |-----handy-ruler------------------------------------------------------|
+kdegraphics-strigi-analyzer: kdegraphics-strigi-analyzer (graphics plugins for strigi)
+kdegraphics-strigi-analyzer:
+kdegraphics-strigi-analyzer: Graphics file format plugins for Strigi Desktop Search.
+kdegraphics-strigi-analyzer: These plugins allow Strigi Desktop Search to extract
+kdegraphics-strigi-analyzer: additional information about several document and graphic file
+kdegraphics-strigi-analyzer: formats.
+kdegraphics-strigi-analyzer:
+kdegraphics-strigi-analyzer: 
+kdegraphics-strigi-analyzer:
+kdegraphics-strigi-analyzer:
+kdegraphics-strigi-analyzer: Package created by Niki Kovacs <info@microlinux.fr>

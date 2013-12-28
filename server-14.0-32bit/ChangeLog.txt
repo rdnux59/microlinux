@@ -1,0 +1,41 @@
+Tue Nov 12 15:17:33 CET 2013
+icecast-2.3.2-i486-3_microlinux.txz: Added.
+libmpdclient-2.7-i486-2_microlinux.txz: Added.
+ncmpc-0.16-i486-2_microlinux.txz: Added.
+libsigc++-2.2.10-i486-2_microlinux.txz: Added.
+libtorrent-0.13.0-i486-2_microlinux.txz: Added.
+rtorrent-0.9.0-i486-3_microlinux.txz: Added.
+squid-3.1.20-i486-2_microlinux.txz: Added.
+squidGuard-1.4-i486-2_microlinux.txz: Added.
+postfix-2.9.7-i486-2_microlinux.txz: Added.
+dovecot-2.1.17-i486-2_microlinux.txz: Added.
+pwgen-2.06-i486-2_microlinux.txz: Added.
+perl-IO-Multiplex-1.13-i486-2_microlinux.txz: Added.
+perl-digest-sha1-2.13-i486-2_microlinux.txz: Added.
+perl-digest-hmac-1.03-i486-2_microlinux.txz: Added.
+perl-net-ip-1.26-i486-2_microlinux.txz: Added.
+perl-net-dns-0.72-i486-2_microlinux.txz: Added.
+perl-Net-Server-2.007-i486-2_microlinux.txz: Added.
+perl-BerkeleyDB-0.52-i486-2_microlinux.txz: Added.
+postgrey-1.34-i486-3_microlinux.txz: Added.
++---------------------------+
+Tue Nov 12 07:28:06 CET 2013
+user-settings-console-1.0-noarch-3_microlinux.txz: Added.
+sbopkg-0.36.0-noarch-2_microlinux.txz: Added.
+recode-3.6-i486-3_microlinux.txz: Added.
+unrar-4.0.7-i486-2_microlinux.txz: Added.
+p7zip-9.20.1-i486-2_microlinux.txz: Added.
+faad2-2.7-i486-2_microlinux.txz: Added.
+lame-3.99.5-i486-2_microlinux.txz: Added.
+libcuefile-r453-i486-2_microlinux.txz: Added.
+libmms-0.6.2-i486-2_microlinux.txz: Added.
+libmp4v2-2.0.0-i486-2_microlinux.txz: Added.
+libreplaygain-r453-i486-2_microlinux.txz: Added.
+speex-1.2rc1-i486-2_microlinux.txz: Added.
+twolame-0.3.13-i486-2_microlinux.txz: Added.
+faac-1.28-i486-3_microlinux.txz: Added.
+ffmpeg-0.11.1-i486-3_microlinux.txz: Added.
+musepack-tools-r435-i486-2_microlinux.txz: Added.
+libshout-2.2.2-i486-2_microlinux.txz: Added.
+mpd-0.17.1-i486-2_microlinux.txz: Added.
++---------------------------+

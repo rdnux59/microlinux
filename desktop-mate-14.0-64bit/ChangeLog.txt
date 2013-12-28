@@ -1,0 +1,20 @@
+Thu Nov 28 09:32:53 CET 2013
+totem-pl-parser-2.32.5-x86_64-2_microlinux.txz: Added.
+brasero-3.4.1-x86_64-2_microlinux.txz: Added.
+gthumb-3.0.1-x86_64-1_microlinux.txz: Added.
+simple-scan-2.32.0.2-x86_64-2_microlinux.txz: Added.
+asunder-2.2-x86_64-2_microlinux.txz: Added.
+gcolor2-0.4-x86_64-4_microlinux.txz: Added.
+gtk-engines-2.20.2-x86_64-3_microlinux.txz: Removed.
+  Already featured in MSB.
++---------------------------+
+Thu Nov 21 08:02:59 CET 2013
+gtk-engines-2.20.2-x86_64-3_microlinux.txz: Added.
+clearlooks-phenix-theme-2.0.10-noarch-2_microlinux.txz: Added.
++---------------------------+
+Wed Nov 20 11:30:40 CET 2013
+libgnomecanvas-2.30.3-x86_64-2_microlinux.txz: Added.
+gdm-2.20.11-x86_64-2_microlinux.txz: Added.
+aero-1.0-noarch-1_microlinux.txz: Added.
+faenza-icon-theme-1.3-noarch-3_microlinux.txz: Added.
++---------------------------+

@@ -1,0 +1,1 @@
+../../desktop-kde-14.0-32bit/tools/install_desktop_kde.sh
